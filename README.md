@@ -9,7 +9,7 @@
 - 🌱 Currently learning **Advanced React, Node & DevOps**
 - 💡 Passionate about **clean UI, fast backend & solving DSA problems**
 - 🎯 Goal: Become a **Full Stack Engineer**  
-- 📫 Reach me at **your-email@gmail.com**
+- 📫 Reach me at **lallipandit8171@gmail.com**
 
 ---
 
@@ -49,24 +49,8 @@ Git • GitHub • VS Code • Postman
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lalit42224&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lalit42224&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
----
-
-### 🔥 Streak Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Lalit42224&theme=tokyonight" />
-</p>
-
----
-
 ### 🌐 Connect With Me
 <p>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/https://www.linkedin.com/in/lalitsharma42ls/" /></a>
 </p>
 
