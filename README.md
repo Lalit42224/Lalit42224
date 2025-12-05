@@ -51,6 +51,6 @@ Git • GitHub • VS Code • Postman
 
 ### 🌐 Connect With Me
 <p>
-  <a href="#"><img src="https://img.shields.io/badge/https://www.linkedin.com/in/lalitsharma42ls/" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/lalitsharma42ls/" /></a>
 </p>
 
